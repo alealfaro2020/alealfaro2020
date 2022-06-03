@@ -6,8 +6,6 @@
 </p>
 </p>
 
-
-
 <p align="center">
   <em>
    Hello, I am Alejandro Alfaro a graduated from <b>Henry Full Stack Bootcamp </b> <br>
