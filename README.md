@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Alejandro Alfaro </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="5px" heigth="5px"> I am Alejandro Alfaro </h1>
 <h3 align="center">FullStack Web Developer</h3>
 <p align="center">
  <a href = "mailto: alealfaro2012@gmail.com"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40" /></a>
