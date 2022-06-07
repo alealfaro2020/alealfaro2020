@@ -54,7 +54,7 @@
   </div>
   <div>
     <h3>Videogames App</h3>
-    <p>App donde podes encontrar y saber cada detalle de cada videojuego</p>
+    <p>App donde puedes encontrar y saber los detalles de cada videojuego</p>
     <p>Tecnologías | React - Redux - CSS - HTML - JavaScript |  Node - Express - Sequealize - PostgreSQL </p>
     <img alt= "Proyecto Individual 1" src= "https://user-images.githubusercontent.com/77414545/172429482-991870c7-af46-4d93-84d2-10c207ccf65c.png" />
     <img alt= "Proyecto Individual 2" src= "https://user-images.githubusercontent.com/77414545/172429540-5460c77e-49fa-401e-a2bc-ee3869d6cdf1.png"/>
