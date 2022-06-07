@@ -47,10 +47,10 @@
     <h3>NFT Market</h3>
     <p>Plataforma de intercambio de NFTs</p>
     <p>Tecnologías | React - Redux - Socket io - Sass - Gulp - JWT | Node - Express - MongoDb - Mongoose </p>
-    <img alt='NFT Market 1' src='https://user-images.githubusercontent.com/57506571/172021063-2b08c060-2a2d-49a2-ac0a-75715ea1c867.png' />
-    <img alt='NFT Market 2' src='https://user-images.githubusercontent.com/57506571/172022647-fe11fd2c-461c-48a9-887d-1f52f7647d14.png' />
-    <img alt='NFT Market 3' src='https://user-images.githubusercontent.com/57506571/172022649-ceeae63f-b825-4132-8deb-b09102c80fe1.png' />
-    <img alt='NFT Market 4' src='https://user-images.githubusercontent.com/57506571/172022657-c122fb11-9d4c-4455-9c4a-36bfc9bc6dd4.png' />
+    <img alt='NFT Market 1' src='https://user-images.githubusercontent.com/77414545/172419750-93916e6c-f4ee-42fe-8e2c-27954cfe49e8.png' />
+    <img alt='NFT Market 2' src='https://user-images.githubusercontent.com/77414545/172419912-9668c19b-9d5c-46bd-a04e-38e3580dbd09.png' />
+    <img alt='NFT Market 3' src='https://user-images.githubusercontent.com/77414545/172420013-30e567c8-2a9d-4743-9d83-1650ac74c5c2.png' />
+    <img alt='NFT Market 4' src='https://user-images.githubusercontent.com/77414545/172420354-004d4d0c-cc2c-433c-b1f4-01741f43bbf7.png' />
   </div>
 
 <div> 
@@ -59,3 +59,4 @@
   <a href="https://www.linkedin.com/in/alejandro-alfaro-1a9b8a186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
