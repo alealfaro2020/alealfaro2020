@@ -8,13 +8,19 @@
 
   <h2>Sobre mí</h2>
  
-- 🔭 Actualmente estoy buscando mi primer empleo como FullStack Web Developer
+- 🔭 Actualmente estoy buscando mi primer empleo como Full Stack Web Developer
 - 🌱 Me gusta aprender cosas nuevas cada día
 - 💬 Tengo 27 años, soy de Cordoba, Argentina 🇦🇷 
 - ✨ En un futuro estoy interesado en estudiar y aprender el rol de Data Engineer
 
 
+
 <div style="display: inline_block"><br>
+
+  <div style="display: inline_block" height="30" width="40">
+   
+    JavaScript || React || HTML || CSS3 || SASS || Redux || Node.js || MongoDB || Socket.io || PostgreSQL || Express || Python || GitFlow || Gulp || Scrum 
+ </div>
   <h2>Tecnologías que uso</h2>
   
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
@@ -35,6 +41,17 @@
  <code> <img height="45" src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg"> </code>
 <code><img height="50" src="https://raw.githubusercontent.com/file-icons/DevOpicons/2c2bf2bdb6507b8e4bfe695c1d54d639fbfed479/svg/scrum.svg"></code>
 </div>
+
+<div>
+    <h2>Mis Proyectos</h2>
+    <h3>NFT Market</h3>
+    <p>Plataforma de intercambio de NFTs</p>
+    <p>Tecnologías | React - Redux - Socket io - Sass - Gulp - JWT | Node - Express - MongoDb - Mongoose </p>
+    <img alt='NFT Market 1' src='https://user-images.githubusercontent.com/57506571/172021063-2b08c060-2a2d-49a2-ac0a-75715ea1c867.png' />
+    <img alt='NFT Market 2' src='https://user-images.githubusercontent.com/57506571/172022647-fe11fd2c-461c-48a9-887d-1f52f7647d14.png' />
+    <img alt='NFT Market 3' src='https://user-images.githubusercontent.com/57506571/172022649-ceeae63f-b825-4132-8deb-b09102c80fe1.png' />
+    <img alt='NFT Market 4' src='https://user-images.githubusercontent.com/57506571/172022657-c122fb11-9d4c-4455-9c4a-36bfc9bc6dd4.png' />
+  </div>
 
 <div> 
     <h2>Mis Redes</h2>
