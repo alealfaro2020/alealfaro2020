@@ -51,6 +51,14 @@
     <img alt='NFT Market 2' src='https://user-images.githubusercontent.com/77414545/172419912-9668c19b-9d5c-46bd-a04e-38e3580dbd09.png' />
     <img alt='NFT Market 3' src='https://user-images.githubusercontent.com/77414545/172420013-30e567c8-2a9d-4743-9d83-1650ac74c5c2.png' />
     <img alt='NFT Market 4' src='https://user-images.githubusercontent.com/77414545/172420354-004d4d0c-cc2c-433c-b1f4-01741f43bbf7.png' />
+  
+    <h3>Videogames App</h3>
+    <p>App donde podes encontrar y saber cada detalle de cada videojuego</p>
+    <p>Tecnologías | React - Redux - CSS - HTML - JavaScript |  Node - Express - Sequealize - PostgreSQL </p>
+    <img alt= "Proyecto Individual 1" src= "https://user-images.githubusercontent.com/77414545/172429482-991870c7-af46-4d93-84d2-10c207ccf65c.png" />
+    <img alt= "Proyecto Individual 2" src= "https://user-images.githubusercontent.com/77414545/172429540-5460c77e-49fa-401e-a2bc-ee3869d6cdf1.png"/>
+    <img alt= "Proyecto Individual 3" src= "https://user-images.githubusercontent.com/77414545/172429516-48efb548-3e1a-4a98-8b6b-e38e5bc04f56.png"/>
+    <img alt= "Proyecto Individual 4" src= "https://user-images.githubusercontent.com/77414545/172429560-4df193bc-c0b8-4a2d-ae90-05bec1f03f3f.png"/>
   </div>
 
 <div> 
