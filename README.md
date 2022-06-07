@@ -51,7 +51,8 @@
     <img alt='NFT Market 2' src='https://user-images.githubusercontent.com/77414545/172419912-9668c19b-9d5c-46bd-a04e-38e3580dbd09.png' />
     <img alt='NFT Market 3' src='https://user-images.githubusercontent.com/77414545/172420013-30e567c8-2a9d-4743-9d83-1650ac74c5c2.png' />
     <img alt='NFT Market 4' src='https://user-images.githubusercontent.com/77414545/172420354-004d4d0c-cc2c-433c-b1f4-01741f43bbf7.png' />
-  
+  </div>
+  <div>
     <h3>Videogames App</h3>
     <p>App donde podes encontrar y saber cada detalle de cada videojuego</p>
     <p>Tecnologías | React - Redux - CSS - HTML - JavaScript |  Node - Express - Sequealize - PostgreSQL </p>
