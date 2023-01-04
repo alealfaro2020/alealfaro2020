@@ -10,7 +10,7 @@
  
 - 🔭 Actualmente consegui mi primer empleo como QA tester
 - 🌱 Me gusta aprender cosas nuevas cada día, actualmente estoy aprendiendo Automation. 
-- 💬 Tengo 27 años, soy de Cordoba, Argentina 🇦🇷 
+- 💬 Tengo 28 años, soy de Cordoba, Argentina 🇦🇷 
 - ✨ En un futuro estoy interesado en estudiar y aprender el rol de Data Engineer
 
 
