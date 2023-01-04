@@ -8,8 +8,8 @@
 
   <h2>Sobre mí</h2>
  
-- 🔭 Actualmente estoy buscando mi primer empleo como Full Stack Web Developer
-- 🌱 Me gusta aprender cosas nuevas cada día
+- 🔭 Actualmente consegui mi primer empleo como QA tester
+- 🌱 Me gusta aprender cosas nuevas cada día, actualmente estoy aprendiendo Automation. 
 - 💬 Tengo 27 años, soy de Cordoba, Argentina 🇦🇷 
 - ✨ En un futuro estoy interesado en estudiar y aprender el rol de Data Engineer
 
@@ -19,7 +19,8 @@
 
   <div style="display: inline_block" height="30" width="40">
    
-    JavaScript || React || HTML || CSS3 || SASS || Redux || Node.js || MongoDB || Socket.io || PostgreSQL || Express || Python || GitFlow || Gulp || Scrum 
+    JavaScript || React || HTML || CSS3 || SASS || Redux || Node.js || MongoDB || Socket.io || PostgreSQL || Express || Python || GitFlow || Gulp || Scrum || GitLab 
+    || Selenium || Jira || 
  </div>
   <h2>Tecnologías que uso</h2>
   
