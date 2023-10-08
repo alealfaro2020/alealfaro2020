@@ -8,10 +8,10 @@
 
   <h2>Sobre mí</h2>
  
-- 🔭 Actualmente consegui mi primer empleo como QA tester
-- 🌱 Me gusta aprender cosas nuevas cada día, actualmente estoy aprendiendo Automation. 
-- 💬 Tengo 28 años, soy de Cordoba, Argentina 🇦🇷 
-- ✨ En un futuro estoy interesado en estudiar y aprender el rol de Data Engineer
+- 🔭 Actualmente trabajando como Data Engineer en Kunan S.A
+- 🌱 Me gusta aprender cosas nuevas cada día, actualmente estoy aprendiendo Spark. 
+- 💬 Tengo 29 años, soy de Cordoba, Argentina 🇦🇷 
+- ✨ En un futuro estoy interesado en estudiar y aprender el rol de Machine Learning engineer
 
 
 
@@ -19,8 +19,8 @@
 
   <div style="display: inline_block" height="30" width="40">
    
-    JavaScript || React || HTML || CSS3 || SASS || Redux || Node.js || MongoDB || Socket.io || PostgreSQL || Express || Python || GitFlow || Gulp || Scrum || GitLab 
-    || Selenium || Jira || 
+    Apache Airflow || Docker || Linux || SSH || ETL || Vertica ||  JavaScript || React || HTML || CSS3 || SASS || Redux || Node.js || MongoDB || Socket.io || PostgreSQL || Express || Python || GitFlow || Gulp || Scrum || GitLab 
+    || Selenium || Jira 
  </div>
   <h2>Tecnologías que uso</h2>
   
