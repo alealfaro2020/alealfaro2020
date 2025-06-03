@@ -8,9 +8,9 @@
 
   <h2>Sobre mí</h2>
  
-- 🔭 Actualmente trabajando como Data Engineer en Kunan S.A
+- 🔭 Actualmente trabajando como Data Engineer en Data Riders (Team Fravega Tech)
 - 🌱 Me gusta aprender cosas nuevas cada día
-- 💬 Tengo 30 años, soy de Cordoba, Argentina 🇦🇷 
+- 💬 Tengo 31 años, soy de Cordoba, Argentina 🇦🇷 
 - ✨ En un futuro estoy interesado en estudiar y aprender Spark. 
 
 
