@@ -8,10 +8,10 @@
 
   <h2>Sobre mí</h2>
  
-- 🔭 Actualmente trabajando como Data Engineer en Data Riders (Team Fravega Tech)
+- 🔭 Actualmente trabajando como Backend Engineer en Data Riders (Team Sociedad Rural Argentina)
 - 🌱 Me gusta aprender cosas nuevas cada día
-- 💬 Tengo 31 años, soy de Cordoba, Argentina 🇦🇷 
-- ✨ En un futuro estoy interesado en estudiar y aprender Spark. 
+- 💬 Tengo 32 años, soy de Cordoba, Argentina 🇦🇷 
+
 
 
 
